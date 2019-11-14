@@ -13,7 +13,7 @@ public class Tests {
         assertEquals(true,true);
     }
 
-    @Test
+    @Test1
     public void testFailed(){
         assertEquals(true,false);
     }
